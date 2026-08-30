@@ -62,7 +62,6 @@ axxela_trading_project/
 ├── strategy.py
 ├── main.py
 ├── requirements.txt
-├── interview_notes.md
 ├── .gitignore
 └── README.md
 ```
